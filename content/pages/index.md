@@ -154,4 +154,5 @@ sections:
         flexDirection: row
         textAlign: left
         borderColor: border-(--theme-dark)
+        borderStyle: solid
 ---
