@@ -155,4 +155,5 @@ sections:
         textAlign: left
         borderColor: border-(--theme-dark)
         borderStyle: solid
+        borderWidth: 2
 ---
